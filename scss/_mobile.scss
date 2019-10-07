@@ -20,7 +20,7 @@
 
     .lg-heading {
       line-height: 1;
-      margin-bottom: 1 rem;
+      margin-bottom: 1rem;
     }
   }
 
@@ -28,7 +28,9 @@
   div.menu-branding {
     float: none;
     width: 100%;
-    min-height: 0;
+    padding-top: 5px;
+    min-height: 130px;
+    line-height: 0.75;
 
     &.show {
       transform: translate3d(0, 0, 0);
