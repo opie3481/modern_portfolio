@@ -257,9 +257,7 @@ main {
   div.menu-branding {
     float: none;
     width: 100%;
-    padding-top: 5px;
-    min-height: 130px;
-    line-height: 0.75; }
+    min-height: 0; }
     ul.menu-nav.show,
     div.menu-branding.show {
       transform: translate3d(0, 0, 0); }
