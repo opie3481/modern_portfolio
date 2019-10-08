@@ -246,7 +246,7 @@ main {
   .projects {
     grid-template-columns: repeat(3, 1fr); } }
 
-@media screen and (max-width: 768px) {
+@media screen and (min-width: 501px) and (max-width: 768px) {
   main {
     align-items: center;
     text-align: center; }
